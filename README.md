@@ -1,1 +1,1 @@
-# directx
+# Algorith Study
